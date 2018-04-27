@@ -6,7 +6,7 @@ if __name__ != '__main__':
     sys.exit(1)
 
 # 文件目录
-fileDir = r'D:\cihuaTemp\yd_66551166_cn\templets\cihua'
+fileDir = r'D:\github\modifyCode\test'
 # 需要转换的文件后缀名
 need = ['.htm', '.html', '.js', '.css']
 # 目标编码  例如utf-8,utf-16,ascii，文件内容为空会显示None
